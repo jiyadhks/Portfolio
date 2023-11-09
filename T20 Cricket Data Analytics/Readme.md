@@ -24,11 +24,15 @@ Python:<br/>
 Download and install it from the official Python website.
 Required Python Libraries:
 
-Open a terminal or command prompt.
-Run the following commands to install the necessary Python libraries:
-bash
-Copy code
-pip install beautifulsoup4 requests pandas
-
+Open a terminal or command prompt.<br/>
+Run the following commands to install the necessary Python libraries:<br/>
+```bash
+  pip install beautifulsoup4 requests pandas
+```
+<br/>
 Power BI Desktop:<br/>
 Download and install Power BI Desktop from the official Power BI website.
+
+## Acknowledgements
+
+  [ESPN Website](https://www.espncricinfo.com/records/tournament/team-match-results/icc-men-s-t20-world-cup-2022-23-14450)
