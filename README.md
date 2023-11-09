@@ -12,34 +12,54 @@ As a data analyst, I find joy in extracting meaningful insights from data, turni
 
 ### t20 cricket data analytics project
 
-- Description: Briefly describe the project, including its goals and objectives.
-- Technologies Used: List the tools, programming languages, and libraries used in the project.
-- Link to Project: Provide a link to the project folder or any relevant files.
+- Description: <br/>In this data analytics project, we conducted a comprehensive analysis of the 2022 T20 cricket performance to identify and select the best 11 cricket players. Leveraging Python for data extraction, cleaning, and transformation, and Power BI for visualization, I provided insights into player statistics, helping cricket enthusiasts make informed decisions in forming their fantasy cricket teams.
+- Technologies Used: <br/>
+  Python: Used for data extraction, cleaning, and transformation.<br/>Power BI: Employed for creating interactive and insightful visualizations.
+- Link to Project: <br/>
+  https://github.com/jiyadhks/Portfolio/tree/main/T20%20Cricket%20Data%20Analytics
 
 
 ## Skills
 
-List the key skills you possess related to data analytics and data science. This can include programming languages, statistical analysis, data visualization, machine learning, etc.
+- Programming Languages: <br/>
+  Python<br/>
+  SQL<br/>
+
+- Data Analysis and Visualization: <br/>
+  Data Analysis<br/>
+  Data Visualization<br/>
+  Data Wrangling<br/>
+  NumPy <br/>
+  Matplotlib<br/>
+  Pandas<br/>
+  Seaborn<br/>
+  Statistics<br/>
+
+- Tools: <br/>
+  Power BI<br/> 
+  MS Excel<br/>
+  MS Office<br/>
+
+- Analytical Skills:<br/> 
+  Analytical Thinking<br/>
+  Problem Solving<br/>
+
 
 ## Certifications
 
-List any relevant certifications you have obtained in the field of data analytics or data science.
+1. Codebasics Resume Project Challenge (07/2023)<br/>
+    Received certificate from Codebasics for completing the resume project challenge.
 
-## Education
+2. SQL (Intermediate) Certificate from HackerRank (05/2023)<br/>
+    Achieved intermediate-level certificate in SQL coding from HackerRank platform.
+   
+3. MS SQL Developer by Intellipaat (03/2023)<br/>
+    Completed training on complex SQL queries, managing databases, and executing SQL-related tasks with Intellipaat.
 
-Provide details about your educational background related to data analytics.
 
 ## Contact Information
 
 - LinkedIn: https://www.linkedin.com/in/jiyadhksalim
 - Email: jiyadh23@gmail.com
 
-## Acknowledgements
 
-Acknowledge and give credit to any data sources, tutorials, or individuals who have inspired or contributed to your projects.
-
-## License
-
-Specify the license under which your portfolio is distributed.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
