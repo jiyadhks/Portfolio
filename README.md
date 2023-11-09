@@ -16,7 +16,8 @@ As a data analyst, I find joy in extracting meaningful insights from data, turni
 - Technologies Used: <br/>
   Python: Used for data extraction, cleaning, and transformation.<br/>Power BI: Employed for creating interactive and insightful visualizations.
 - Link to Project: <br/>
-  https://github.com/jiyadhks/Portfolio/tree/main/T20%20Cricket%20Data%20Analytics
+  [Project link](https://github.com/jiyadhks/Portfolio/tree/main/T20%20Cricket%20Data%20Analytics)
+  
 
 
 ## Skills
